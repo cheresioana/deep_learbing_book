@@ -3,6 +3,8 @@
 Here are some notes that I have taken while reading Deep Learning with Python, Second Edition - by François Chollet. 
 It can be used as a quick overview of the book or gather some knowledge.
 
+Here is a link for the official jupyterNotebooks of the book https://github.com/fchollet/deep-learning-with-python-notebooks 
+
 ## Structure
 Each chapter has its own jupyter notebook with some of my notes, practical exercises and some snippets from the book.
 
